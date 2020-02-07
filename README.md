@@ -45,7 +45,7 @@ Additional information for this game can be found on [Wikipedia](https://en.wiki
 
 * C#
 * .NET
-* Microsoft(MS) Test
+* JService API
 * SQL
 * LINQ 
 
